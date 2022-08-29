@@ -1,0 +1,28 @@
+body{
+    background: gold;
+}
+span{
+    font-size:17px;
+}
+a{
+  text-decoration:red; 
+  color:greenyellow;
+  border-bottom:2px solid whitesmoke;
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:salmon;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:mediumvioletred;
+}
